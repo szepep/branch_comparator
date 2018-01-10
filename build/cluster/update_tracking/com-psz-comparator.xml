@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.psz.comparator">
+    <module_version install_time="1446542650758" last="true" origin="installer" specification_version="1.0">
+        <file crc="1410321393" name="config/Modules/com-psz-comparator.xml"/>
+        <file crc="3309525216" name="modules/com-psz-comparator.jar"/>
+    </module_version>
+</module>

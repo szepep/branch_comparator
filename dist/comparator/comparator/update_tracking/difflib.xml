@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="difflib">
+    <module_version install_time="1446542651048" last="true" origin="installer" specification_version="1.0">
+        <file crc="2637911965" name="config/Modules/difflib.xml"/>
+        <file crc="226067324" name="modules/difflib.jar"/>
+        <file crc="3714528592" name="modules/ext/diffutils-1.2.1.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+C:\Program Files\NetBeans 8.0.2\platform=1445629432946
+cluster.C:/Users/SzepePeter/Documents/NetBeansProjects/Comparator/build/cluster=1446542783662
+cluster.C:/Program Files/NetBeans 8.0.2/ide=1445629435987
+cluster.C:/Program Files/NetBeans 8.0.2/platform=1445629432946
+user=1446542783662
+crc=1720
+locale=en_US
+branding=comparator
+java.version=1.7.0_79
+java.vm.version=24.79-b02

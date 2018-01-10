@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.psz.viewer">
+    <module_version install_time="1446542651709" last="true" origin="installer" specification_version="1.0">
+        <file crc="2909909631" name="config/Modules/com-psz-viewer.xml"/>
+        <file crc="70887049" name="modules/com-psz-viewer.jar"/>
+    </module_version>
+</module>
